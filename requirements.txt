@@ -1,0 +1,16 @@
+pytube
+yt-dlp
+youtube-transcript-api
+openai-whisper
+langdetect
+langid
+transformers
+sentencepiece
+accelerate
+torch
+torchvision
+torchaudio
+langchain
+langchain-community
+faiss-cpu
+streamlit
